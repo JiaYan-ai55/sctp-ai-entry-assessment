@@ -1,2 +1,4 @@
 # sctp-ai-entry-assessment
-ai engineering assessment
+
+ai engineering assessment repository
+
